@@ -9,3 +9,9 @@ A collection of my agent skills that extend capabilities across planning, develo
   ```
   npx skills@latest add andrewmcoupe/ai-skills/feature-explainer
   ```
+
+- **generate-orchestrator-prd** — Interview the user about a feature or project, resolve all design decisions, then generate a PRD.md optimised for the [orchestrator](https://github.com/andrewmcoupe/orchestrator)'s ingest system.
+
+  ```
+  npx skills@latest add andrewmcoupe/ai-skills/generate-orchestrator-prd
+  ```
