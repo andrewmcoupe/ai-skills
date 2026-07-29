@@ -15,3 +15,9 @@ A collection of my agent skills that extend capabilities across planning, develo
   ```
   npx skills@latest add andrewmcoupe/ai-skills/generate-orchestrator-prd
   ```
+
+- **prd-to-task-graph** — Turn a feature idea, brief, or PRD into an executable dependency graph of tasks (graph engineering), then complete it phase by phase with approval gates between interrogation, PRD, task graph, and execution.
+
+  ```
+  npx skills@latest add andrewmcoupe/ai-skills/prd-to-task-graph
+  ```
